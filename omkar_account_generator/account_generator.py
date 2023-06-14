@@ -1,5 +1,8 @@
 import requests
 import enum
+import random
+
+# from greatawesomeutils.lang import *
 
 class Gender(enum.Enum):
     MEN = 'male'
@@ -100,5 +103,6 @@ class AccountGenerator:
             return generate_persons(n, gender, country)
 
 if __name__ == '__main__':
-    account = AccountGenerator.generate_accounts(5, country=Country.IN)
-    print(account)
+    account = AccountGenerator.generate_accounts(3, gender = Gender.WOMEN, country=Country.IN)
+    # write_temp_json(account)
+    # print(account)
