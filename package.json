@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "upload": "rm -rf dist/ omkar_account_generator.egg-info && python setup.py sdist && pip install -e . && python -m twine upload dist/*",
+    "install": "rm -rf dist/ omkar_account_generator.egg-info  && python setup.py sdist && pip install -e ."
+  }
+}
