@@ -56,7 +56,7 @@ def __get_person(user_data: dict):
     email = user_data["email"]
     
     
-    username = user_data["email"].replace(".", "").replace("@example.com" , "")
+    username = user_data["email"].replace("@example.com" , "").replace(".", "")
     
     email_username = user_data["email"].replace("@example.com" , "")
     email = email_username + "@gmail.com"
@@ -105,4 +105,4 @@ class AccountGenerator:
 if __name__ == '__main__':
     account = AccountGenerator.generate_accounts(3, gender = Gender.WOMEN, country=Country.IN)
     # write_temp_json(account)
-    # print(account)
+    print(account)

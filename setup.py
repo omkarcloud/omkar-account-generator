@@ -20,7 +20,7 @@ def get_description():
 setup(
     name='omkar_account_generator',
     packages=['omkar_account_generator'],
-    version='1.1.0',
+    version='1.1.1',
     license='MIT',
     project_urls={
         "Documentation": "https://github.com/omkarcloud/omkar-account-generator",
