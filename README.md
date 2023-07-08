@@ -1,4 +1,32 @@
-# Omkar Account Generator
+<p align="center">
+  <img src="https://www.omkar.cloud/images/favicon/prod/favicon-256x256.png" alt="omkar" />
+</p>
+  <div align="center" style="margin-top: 0;">
+  <h1>✨ Omkar Account Generator ✨</h1>
+  <!-- <p>💦 Enjoy the Rain of Google Maps Leads 💦</p> -->
+</div>
+<em>
+  <h5 align="center">(Programming Language - Python 3)</h5>
+</em>
+<p align="center">
+  <a href="#">
+    <img alt="omkar-account-generator forks" src="https://img.shields.io/github/forks/omkarcloud/omkar-account-generator?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img alt="Repo stars" src="https://img.shields.io/github/stars/omkarcloud/omkar-account-generator?style=for-the-badge&color=yellow" />
+  </a>
+  <a href="#">
+    <img alt="omkar-account-generator License" src="https://img.shields.io/github/license/omkarcloud/omkar-account-generator?color=orange&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/omkarcloud/omkar-account-generator/issues">
+    <img alt="issues" src="https://img.shields.io/github/issues/omkarcloud/omkar-account-generator?color=purple&style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://views.whatilearened.today/views/github/omkarcloud/omkar-account-generator.svg" width="80px" height="28px" alt="View" />
+</p>
+
+---
 
 Omkar Account Generator provides a convenient solution for creating accounts. It is particularly useful for automated tasks that require account creation in selenium.
 
